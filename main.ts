@@ -6,7 +6,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ENTRY =
-  "★☆☆☆☆ — Monday started with 47 unread emails and a long 9 a.m. meeting that could have been an email; I would not recommend it and there is no refund.";
+  "★☆☆☆☆ — My Monday opened with 47 unread emails and a 9 a.m. meeting that should have been email #48; zero stars, no refund, and it auto-renews weekly.";
 
 const MAX_CHARS = 200;
 
